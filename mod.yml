@@ -28,12 +28,12 @@ assets:
   - name: obj/N_NM050_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM050_BTL.mdlx
+  - name: N_NM050_BTL_2.mdlx
 - name: obj/N_NM060_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM060_BTL.mdlx
+  - name: N_NM060_BTL_2.mdlx
 - name: obj/N_NM070_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM070_BTL.mdlx
+  - name: N_NM070_BTL_2.mdlx

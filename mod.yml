@@ -25,7 +25,7 @@ assets:
   method: copy
   source:
   - name: N_HB020_LOUIE_RTN.mdlx
-  - name: obj/N_NM050_BTL_2.mdlx
+- name: obj/N_NM050_BTL_2.mdlx
   method: copy
   source:
   - name: N_NM050_BTL_2.mdlx

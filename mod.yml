@@ -4,36 +4,40 @@ assets:
 - name: obj/N_NM070_BTL.mdlx
   method: copy
   source:
-  - name: N_NM070_BTL.mdlx
+  - name: obj/N_NM070_BTL.mdlx
 - name: obj/N_HB020_DEWEY_RTN.mdlx
   method: copy
   source:
-  - name: N_HB020_DEWEY_RTN.mdlx
+  - name: obj/N_HB020_DEWEY_RTN.mdlx
 - name: obj/N_NM050_BTL.mdlx
   method: copy
   source:
-  - name: N_NM050_BTL.mdlx
+  - name: obj/N_NM050_BTL.mdlx
 - name: obj/N_HB020_HUEY_RTN.mdlx
   method: copy
   source:
-  - name: N_HB020_HUEY_RTN.mdlx
+  - name: obj/N_HB020_HUEY_RTN.mdlx
 - name: obj/N_NM060_BTL.mdlx
   method: copy
   source:
-  - name: N_NM060_BTL.mdlx
+  - name: obj/N_NM060_BTL.mdlx
 - name: obj/N_HB020_LOUIE_RTN.mdlx
   method: copy
   source:
-  - name: N_HB020_LOUIE_RTN.mdlx
+  - name: obj/N_HB020_LOUIE_RTN.mdlx
 - name: obj/N_NM050_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM050_BTL_2.mdlx
+  - name: obj/N_NM050_BTL_2.mdlx
 - name: obj/N_NM060_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM060_BTL_2.mdlx
+  - name: obj/N_NM060_BTL_2.mdlx
 - name: obj/N_NM070_BTL_2.mdlx
   method: copy
   source:
-  - name: N_NM070_BTL_2.mdlx
+  - name: obj/N_NM070_BTL_2.mdlx
+- name: msn/jp/NM10_MS201.bar
+  method: copy
+  source:
+  - name: msn/NM10_MS201.bar

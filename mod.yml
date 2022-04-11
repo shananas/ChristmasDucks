@@ -47,7 +47,7 @@ assets:
     method: copy
     source:
     - name: msn/ct_n.imd
-- name: obj/P_AL010.a.fm
+- name: msn/jp/NM10_MS201.bar
   method: binarc
   source:
   - name: ct_n

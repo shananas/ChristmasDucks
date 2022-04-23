@@ -40,6 +40,8 @@ assets:
 
 #Bar
 - name: msn/jp/NM10_MS201.bar
+  multi:
+    - name: msn/us/NM10_MS201.bar
   method: binarc
   source:
   - name: ct_n

@@ -40,8 +40,7 @@ assets:
 
 #Bar
 - name: msn/jp/NM10_MS201.bar
-  multi:
-    - name: msn/us/NM10_MS201.bar
+  platform: ps2
   method: binarc
   source:
   - name: ct_n
@@ -54,4 +53,17 @@ assets:
     method: copy
     source:
     - name: msn/ct_n.sqd
-
+- name: msn/us/NM10_MS201.bar
+  platform: pc
+  method: binarc
+  source:
+  - name: ct_n
+    type: imgd
+    method: copy
+    source:
+    - name: msn/ct_n.imd
+  - name: ct_n
+    type: seqd
+    method: copy
+    source:
+    - name: msn/ct_n.sqd

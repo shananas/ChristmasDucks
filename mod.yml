@@ -1,5 +1,6 @@
 title: Christmas Ducks
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/N_NM070_BTL.mdlx
   method: copy
